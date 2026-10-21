@@ -1,0 +1,88 @@
+# Chatda 이용약관
+
+Copyright (c) 2026 barbellsoft. All rights reserved.
+
+Chatda(찾다)를 설치하거나 사용하면 이 약관에 동의한 것으로 봅니다.
+
+## 1. 사용 허락
+
+개인과 회사·기관 누구나 Chatda를 무료로 설치하고 사용할 수 있습니다. 업무용 사용도 포함하며 설치하는 PC 대수에 제한이 없습니다. 회사·기관 안에서 직원 PC에 설치하려고 설치 파일을 복사하는 것도 허용합니다.
+
+수정하지 않은 원본 설치 파일(공식 배포처나 https://barbellsoft.com 에서 받은 그대로)은 누구나 무료로 다시 배포할 수 있습니다. 소프트웨어 다운로드 사이트에 올리거나 저장 매체에 담아 나눠 주는 것도 포함합니다.
+
+## 2. 하지 말아야 할 것
+
+- Chatda를 판매하거나 대여하거나 돈을 받고 제공하는 것
+- Chatda를 수정하거나 역컴파일·역설계하는 것 (관련 법이 명시적으로 허용하는 범위는 제외)
+- 설치 파일을 고쳐서 배포하거나, 다른 설치 프로그램·다운로드 관리자로 감싸거나, 다른 프로그램·광고 제안과 함께 끼워 배포하거나, 배포하면서 돈을 받는 것 (다운로드 사이트가 자기 페이지에 평소처럼 광고를 싣는 것은 괜찮습니다)
+- 이 약관과 저작권 표시를 지우거나 바꾸는 것
+
+## 3. 권리
+
+Chatda의 저작권과 그 밖의 모든 권리는 barbellsoft에 있습니다. 이 약관은 사용할 권리만 드리며 소유권을 넘기지 않습니다.
+
+## 4. 보증하지 않음
+
+Chatda는 «있는 그대로» 제공됩니다. 상품성, 특정 목적에의 적합성, 오류가 없음을 포함해 명시적이든 묵시적이든 어떤 보증도 하지 않습니다.
+
+## 5. 책임 제한
+
+관련 법이 허용하는 최대 범위에서, barbellsoft는 Chatda를 사용했거나 사용하지 못해 생긴 어떤 손해(데이터 손실, 업무 중단, 이익 손실을 포함)에도 책임지지 않습니다.
+
+## 6. 데이터
+
+Chatda는 검색 색인을 사용자의 PC에만 저장하며, 파일 이름이나 내용을 barbellsoft에 보내지 않습니다. 새 버전을 확인하고 내려받으려고 GitHub에 접속합니다. 사용자가 직접 NAS 서버를 연결한 경우에는 검색어와 로그인 정보가 그 서버로 갑니다.
+
+## 7. 오픈소스 구성 요소
+
+Chatda에 포함된 오픈소스 구성 요소는 각자의 라이선스를 따릅니다. 고지는 앱의 «Chatda 정보» 창에서 볼 수 있습니다.
+
+## 8. 약관 변경
+
+새 버전에는 바뀐 약관이 적용될 수 있습니다. 이미 받은 버전에는 받을 때의 약관이 적용됩니다.
+
+---
+
+# Chatda License Agreement
+
+Copyright (c) 2026 barbellsoft. All rights reserved.
+
+By installing or using Chatda, you agree to these terms.
+
+## 1. License
+
+Anyone — individuals, companies, and organizations — may install and use Chatda free of charge, including for business use, on any number of computers. Copying the installer within a company or organization to install it on its own employees' computers is permitted.
+
+Anyone may redistribute the original, unmodified installer (as published on the official distribution site or https://barbellsoft.com) free of charge, including on software download sites and on storage media.
+
+## 2. Restrictions
+
+You may not:
+- sell, rent, or otherwise provide Chatda for a fee;
+- modify, decompile, or reverse engineer Chatda, except to the extent expressly permitted by applicable law;
+- redistribute a modified installer, wrap the installer in another installer or download manager, bundle it with other software or offers, or charge for it (download sites may show their usual page ads);
+- remove or alter these terms or the copyright notice.
+
+## 3. Ownership
+
+Chatda and all rights in it belong to barbellsoft. These terms grant you a right to use Chatda; they do not transfer ownership.
+
+## 4. No warranty
+
+Chatda is provided "as is", without warranty of any kind, express or implied, including merchantability, fitness for a particular purpose, and freedom from errors.
+
+## 5. Limitation of liability
+
+To the maximum extent permitted by applicable law, barbellsoft is not liable for any damages arising from the use of, or inability to use, Chatda, including loss of data, business interruption, or loss of profits.
+
+## 6. Data
+
+Chatda stores its search index only on your computer and does not send your file names or contents to barbellsoft. It connects to GitHub to check for and download updates. If you connect a NAS server yourself, your search queries and login details are sent to that server.
+
+## 7. Open-source components
+
+Open-source components included in Chatda are governed by their own licenses. Their notices are shown in the app's "About Chatda" window.
+
+## 8. Changes
+
+New versions may come with updated terms. A version you have already obtained remains under the terms it came with.
